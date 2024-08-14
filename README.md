@@ -29,6 +29,9 @@ poetry install
 poetry add exa-pay
 ```
 
+```bash
+streamlit run src/gui/app.py
+```
 
 ### Customizing
 

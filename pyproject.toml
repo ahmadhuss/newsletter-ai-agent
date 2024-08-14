@@ -8,6 +8,7 @@ authors = ["Your Name <you@example.com>"]
 python = ">=3.10,<=3.13"
 crewai = { extras = ["tools"], version = "^0.51.0" }
 exa-py = "^1.0.17"
+streamlit = "^1.37.1"
 
 [tool.poetry.scripts]
 newsletter_gen = "newsletter_gen.main:run"
